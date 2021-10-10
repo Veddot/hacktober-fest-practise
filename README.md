@@ -1,2 +1,2 @@
-# Test
-10-10-2021
+# Project idea
+1. Todo app
